@@ -1,0 +1,14 @@
+# main links
+# url correpond to the premalink parametered in pages .md files. NOT the .md file names
+# use premalink to get access to the pages stored in local files. 
+main:
+  - title: "Résumé"        # post by categories
+    url: /resume/
+  - title: "Posts"        # post by categories
+    url: /categories/
+  - title: "Tests"        # cognitive tasks
+    url: /games/
+  - title: "Recherche"     # about + research teams + publication + highlight images 
+    url: /research/         # ref to /about 
+  - title: "Contact"      # to be determine
+    url: /contact/ 
