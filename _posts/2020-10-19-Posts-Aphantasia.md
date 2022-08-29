@@ -7,7 +7,7 @@ tags:
   - blind mind's eye
 ---
 
-**Evaluate your mind's eye with our new tests [here](/imagination/games/Games-BIP2-fr/)**
+**Evaluate your mind's eye with our new tests [here](/imagery/games/Games-ebip-fr/)**
 
 ***A life without mental images***
 
