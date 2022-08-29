@@ -1,5 +1,5 @@
 ---
-title: "Une Batterie de tests Imagerie-Perception améliorée"
+title: "Tests de Imagerie-Perception"
 header:
   overlay_image: /assets/images/starynight.jpg
 # styke : layout header overlay image
@@ -12,7 +12,7 @@ tags:
 
 Une nouvelle batterie de tests permet grâce à differentes variables (perception, imagerie,vivacité) d'évaluer votre capacité à générer des images mentales.   
 
-![bip2protocol](/imagination/assets/images/bip2protocol.png)
+![bip2protocol](/imagery/assets/images/bip2protocol.png)
 
 
 **Attention, ce test fonctionne uniquement sur un ordinateur avec clavier. La version sur portable est en cours de développement.**

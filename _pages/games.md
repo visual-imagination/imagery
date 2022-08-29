@@ -19,7 +19,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Une Batterie de tests Imagerie-Perception améliorée"
     excerpt: "Une nouvelle batterie de tests permet grâce à differentes variables (perception, imagerie,vivacité) d’évaluer votre capacité à générer des images mentales."
-    url: "/games/ebip-fr/"   # access to post link by Category-Name
+    url: "/games/Games-eBIP-fr/"   # access to post link by Category-Name
     btn_label: "Jouez ici!"
     btn_class: "btn--primary"
 
